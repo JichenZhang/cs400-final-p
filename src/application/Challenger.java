@@ -11,7 +11,7 @@
 // Authors:                 Jonny Henningson, Zhengda (Jerry) Han, Tyler Henning, 
 //                          Penghai Wei, Jichen Zhang
 // Emails:                  jhenningson@wisc.edu, zhan66@wisc.edu, thenning2@wisc.edu,
-//                          pwei25@wisc.edu, JICHEN EMAIL HERE
+//                          pwei25@wisc.edu, jzhang877@wisc.edu
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
